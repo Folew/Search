@@ -1,0 +1,26 @@
+Gio Lapid
+1262354
+CS12B
+07/06/13
+
+PA2: Search.java
+Purpose:
+-----------------------------------------------------------------------
+i. Files
+	i. Search.java
+	ii.README
+	iii. makefile
+
+ii. Instructions
+	To run the program type Search file target [target2..]
+	note: file is the file you are trying to search and target is the word 
+	      being targeted.
+
+iii. Methods
+	Screen - puts the file into an array
+	mergeSort and merge - puts the tokens in alphabetical order
+	binarySearch - looks for the target after being mergeSorted
+
+iv. Output
+	The output returns the line of the word being targeted in the original file
+	If the word is not in there it would say so.
